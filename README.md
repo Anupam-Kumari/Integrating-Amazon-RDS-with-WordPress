@@ -54,6 +54,12 @@ Step13: Fill all the details, click submit option and download the Wordpress.
 
 Step14: Finally Login the Account Credentials and setup wordpress account.
 
+# Problem Facing
+ 
+ Add mysql/Arura in inbound rule in Default security group which is attach to rds.
+ 
+ Add Htttp in inbound rule which is attach to ec2.
+
  
 
  
