@@ -58,7 +58,7 @@ Step14: Finally Login the Account Credentials and setup wordpress account.
  
  Add mysql/Arura in inbound rule in Default security group which is attach to rds.
  
- Add Htttp in inbound rule which is attach to ec2.
+ Add Htttp in inbound rule in security group which is attach to ec2.
 
  
 
